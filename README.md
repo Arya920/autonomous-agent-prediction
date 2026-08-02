@@ -174,8 +174,8 @@ generate_content_config: !include configs/sampling.yaml
 ---
 
 ## License & contact
-- LICENSE: (not included in the repository — add a LICENSE file if you want to open-source)
-- Author / contact: repository owner (see GitHub repo page)
+- LICENSE: haven't decided yet ⚠️
+- Author / contact: Tamal & Arya
 
 ---
 
