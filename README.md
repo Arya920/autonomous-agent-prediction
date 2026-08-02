@@ -176,14 +176,3 @@ generate_content_config: !include configs/sampling.yaml
 ## License & contact
 - LICENSE: haven't decided yet ⚠️
 - Author / contact: Tamal & Arya
-
----
-
-## Try asking
-- How can I adapt run_local_eval.py to use a custom metric or scorer function?
-- Where does the agent compiler look for tool definitions — how do I add a new custom tool to the dummy toolset used in validation?
-- The sample_submission agent.yaml references configs/sampling.yaml and prompts/system.md — can you show an example of those files (sampling params and system prompt) for a simple baseline agent?
-
----
-
-If you want, I can also produce a ready-to-commit README.md file content formatted for the repository (with optional badges and a short contributing template). Which style do you prefer?
